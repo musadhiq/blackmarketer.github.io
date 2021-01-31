@@ -11,7 +11,7 @@ const COMMANDS = {
   resume: "<a href='./resume.pdf' class='success link'>resume.pdf</a>",
   experience: "No Experience😥",
   acknowledges: 
-    "<a href='https://bughunter.withgoogle.com/profile/12edf378-705d-4ef8-ae44-2fc5ab8bbb69' class='success link'>Google Honorable Mention</a> , <a href='https://www.nokia.com/responsible-disclosure/' class='success link'>Nokia HOF On December 2020</a>", 
+    "<a href='https://bughunter.withgoogle.com/profile/12edf378-705d-4ef8-ae44-2fc5ab8bbb69' class='success link'>Google Honorable Mention</a> , <a href='https://www.nokia.com/responsible-disclosure/' class='success link'>Nokia HOF On December 2020</a> , <a href='https://access.redhat.com/articles/66234' class='success link'>RedHat HOF 2021</a>", 
   contact:
     "You can contact me on any of following links:<br><a href='https://t.me/alan_abhilash' class='success link'>Telegram</a>, <a href='https://www.instagram.com/mr.blackmarketer/' class='success link'>Instagram</a>, <a href='https://www.twitter.com/alan_abhilash/' class='success link'>Twitter</a>"
 };
