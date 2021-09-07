@@ -4,7 +4,7 @@ window.onload = () => {
  }
 const COMMANDS = {
   help:
-    'Supported commands: <span class="code">about</span>, <span class="code">experience</span>, <span class="code">education</span>, <span class="code">skills</span>, <span class="code">acknowledges</span>, <span class="code">contact</span>',
+    'Supported commands: <span class="code">about</span>, <span class="code">experience</span>, <span class="code">education</span>, <span class="code">skills</span>, <span class="code">acknowledges</span>, <span class="code">contact</span>, <span class="code">resume</span>,'
   about:
     "Hello 👋<br>I'm Alan Abhilash. I’m a 18 yr old pentester and bug bounty hunter currently living in India.",
   skills:
